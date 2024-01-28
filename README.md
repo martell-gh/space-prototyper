@@ -1,2 +1,3 @@
 # space-prototyper
-Software to easily create and edit prototypes for your Space Station 14 server.
+A handy prototype editor in Space Station 14. 
+Not perfect at reading files, but still more convenient than filling out tons of lines in a text editor.
