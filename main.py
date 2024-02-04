@@ -156,8 +156,8 @@ class DynamicYMLApp(QMainWindow):
     def show_credits(self):
         text = (
             "Developer:\n"
-            "Ogunefu.\n\n"
-            "Discord - ogunefu.\n\n"
+            "Martell.\n\n"
+            "Discord - .martell\n\n"
             "Special thanks:\n"
             "DL94\n"
             "your_mommy\n"
