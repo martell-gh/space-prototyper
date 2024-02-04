@@ -73,7 +73,7 @@ class DynamicYMLApp(QMainWindow):
         self.add_component_button.clicked.connect(self.add_component)
         self.layout.addWidget(self.add_component_button)
 
-        self.author_label = QLabel('Developed by Ogunefu')
+        self.author_label = QLabel('Developed by Martell')
 
         file_menu = self.menuBar().addMenu('File')
         theme_menu = self.menuBar().addMenu('Theme')
